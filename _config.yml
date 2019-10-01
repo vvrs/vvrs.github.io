@@ -49,8 +49,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Home
-    url:               /home/
   # - title:             Hyde
   #   url:               /hyde/
   # - title:             Documentation

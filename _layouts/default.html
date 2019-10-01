@@ -4,7 +4,7 @@ layout: base
 
 {% assign strings = site.data.strings %}
 
-<article class="page" role="article">
+<!-- <article class="page" role="article">
   <header>
     <h1 class="page-title">{{ page.title | default:strings.home | default:"Home" }}</h1>
     {% include components/message.html text=page.description hide=page.hide_description %}
@@ -17,7 +17,7 @@ layout: base
   {% if site.posts.size > 0 %}
     <h2 class="hr">{{ strings.posts | default:"Posts" }}</h2>
     <ul class="related-posts">
-      {% for post in site.posts limit:5 %}
+      {% for post in site.posts limit:50 %}
         {% include components/post-list-item.html post=post %}
       {% endfor %}
     </ul>
@@ -38,4 +38,4 @@ layout: base
       {% endfor %}
     </ul>
   {% endif %}
-</article>
+</article> -->
