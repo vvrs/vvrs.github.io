@@ -1,4 +1,4 @@
-# Hydejack
+<!-- # Hydejack
 
 The "Best Jekyll Theme by a Mile".
 
@@ -36,18 +36,18 @@ There are two versions of **Hydejack**: The base version is free, while features
 
 
 ## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so. -->
 
 <!--posts-->
 
-
+<!-- 
 ## An Impressive Portfolio
-A portfolio that's guaranteed to be impressive — no matter what you put into it.
+A portfolio that's guaranteed to be impressive — no matter what you put into it. -->
 
 <!--projects-->
 
 
-## A Printable Resume
+<!-- ## A Printable Resume
 Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](assets/Resume.pdf).
 
 ![Resume PDF](assets/img/blog/resume.png)
@@ -177,4 +177,4 @@ This table below shows what's included in each version:
 [katex]: https://khan.github.io/KaTeX/
 [tinyletter]: https://tinyletter.com/
 
-*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
+*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations. -->
