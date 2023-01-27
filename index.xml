@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My personal blog</title>
+    <title>My notes</title>
     <link>https://vvrs.github.io/</link>
-    <description>Recent content on My personal blog</description>
+    <description>Recent content on My notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Nov 2022 09:03:20 -0800</lastBuildDate>
